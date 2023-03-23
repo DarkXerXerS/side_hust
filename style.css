@@ -11,3 +11,22 @@ nav {
     margin: 25px 22px;
     padding: 20px;
 }
+
+.section_1 {
+    position: relative;
+    background-color: hsl(256, 26%, 20%);
+    /* color: hsl(0, 0%, 98%); color for h1 */
+    /* color: hsl(273, 4%, 51%);  color for the paragraphy */
+    
+}
+
+img[src*='left-mobile'] {
+    position: absolute;
+}
+
+img[src*='right-mobile'] {
+    position: absolute;
+}
+  h1 {
+    
+  }
