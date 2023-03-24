@@ -266,7 +266,8 @@ cursor: pointer;
 
 
 .footer {
-    background-color: black;
+   background-color: hsl(0, 0%, 98%);
+   border: 1px solid red; 
 }
 
 
