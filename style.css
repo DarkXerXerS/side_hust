@@ -198,7 +198,11 @@ img[src*='right-mobile'] {
     border: 1px solid white;
   }
 
-
+.form { 
+    margin: 0 20px;
+    border: 1px solid red;
+}
+  
 
 
 
