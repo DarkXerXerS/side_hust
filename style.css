@@ -121,7 +121,7 @@ img[src*='left-mobile'] {
 
 img[src*='right-mobile'] {
     position: absolute;
-    left: 250px;
+    left: 285px;
 }
   .First_h1 {
     text-align: center;
@@ -199,9 +199,56 @@ img[src*='right-mobile'] {
   }
 
 .form { 
-    margin: 0 20px;
-    border: 1px solid red;
+    margin: 30px 20px;
+    color: white;
+    background-color: hsl(256, 26%, 20%);
+    border-radius: 10px;
+    box-shadow: 10px 9px  9px rgba(29, 18, 18, 0.3)
+
 }
+
+.form-h2 {
+    text-align: center;
+    font-size: 50px;
+    font-family: 'DM Serif Display', serif;
+    color: white;
+
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-size: 25px;
+    font-family: 'DM Serif Display', serif;
+}
+
+.container input {
+    padding: 11px 19px;
+    border-radius: 10px;
+    background-color: rgb(224, 218, 218);
+    border: none;
+    cursor: pointer;
+}
+
+.container input:hover {
+cursor: pointer;
+
+}
+
+.container label {
+
+}
+
+.submit {
+    margin-bottom: 20px;
+}
+
+
+
+
+
   
 
 
