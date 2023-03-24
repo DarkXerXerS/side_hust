@@ -269,6 +269,7 @@ cursor: pointer;
    background-color: hsl(0, 0%, 98%);
    border: 1px solid red; 
    position: relative;
+   opacity: 0.8;
 }
 
 .container-img {
@@ -286,10 +287,20 @@ cursor: pointer;
 }
 
 .footer-container {
-    margin-top: 20px;
+    margin: 40px 10px;
     text-align: center;
+    padding: 20px;
+    font-family: 'DM Serif Display', serif;
+}
+.footer-container h3 {
+    padding: 10px;
 }
 
+
+.footer-container span {
+opacity: 0.5;
+text-transform: uppercase;
+}
 
 
 
