@@ -406,3 +406,7 @@ h2 {
 .btwn-2 {
   border: 1px solid white;
 }
+
+@media only screen and  (max-width: 1024px) {
+    
+}
