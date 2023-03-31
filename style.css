@@ -377,7 +377,7 @@ h2 {
 
 @media only screen and (min-width: 1024px) {
   #nav_bar,
-  #close {
+  .close {
     display: none;
   }
 
@@ -396,6 +396,7 @@ h2 {
     position: relative;
     top: 0;
     right: 0;
+    width: 100%;
   }
   .nav-menu a {
     color: black;
