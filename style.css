@@ -499,5 +499,19 @@ img[src*="right-mobile"] {
  .article_same {
   text-align: left;
  }
+ 
+.flex-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.section_3 {
+  width: 40%;
+}
+
+.form {
+  width: 60%;
+  margin-top: 200px;
+}
 
 }
