@@ -513,5 +513,16 @@ img[src*="right-mobile"] {
   width: 60%;
   margin-top: 200px;
 }
+.form-h2 {
+  text-align: center;
+  font-size: 30px;
+  font-family: "DM Serif Display", serif;
+  color: white;
+}
+
+.bag {
+  display: flex;
+}
+
 
 }
