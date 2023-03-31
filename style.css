@@ -391,4 +391,9 @@ h2 {
     color: black;
     font-weight: 600;
   }
+  .nav-menu li:last-child a {
+    border: 1px solid black;
+    height: 40px;
+    padding: 10px 12px;
+  }
 }
