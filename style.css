@@ -374,7 +374,7 @@ h2 {
   .nav-menu {
     background: transparent;
     /* list-style: none; */
-    padding: 10px 0;
+    padding: 15px 0;
     display: flex;
     flex-direction: row;
     align-items: center;
