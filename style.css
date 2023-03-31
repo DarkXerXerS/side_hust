@@ -375,7 +375,7 @@ h2 {
   display: none;
 } */
 
-@media only screen and (min-width: 1024px) {
+@media only screen and (min-width: 900px) {
   #nav_bar,
   .close {
     display: none;
@@ -532,6 +532,9 @@ img[src*="right-mobile"] {
 }
 
 .bag {
+  display: flex;
+}
+.footer-container {
   display: flex;
 }
 
