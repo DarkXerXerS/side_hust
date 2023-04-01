@@ -433,14 +433,9 @@ h2 {
     top: 90px;
   }
 
-  .image img[src*="intro-mobile"] {
+   img[src*="intro-mobile"] {
     /* position: absolute; */
-    /* top: 10; */
-    bottom: 500px;
-    left: 500px;
-    /* right: 100px; */
-    /* width: 10%; */
-    /* z-index: -12; */
+    margin-left: 300px;
   }
 
   .section_1 {
@@ -448,7 +443,7 @@ h2 {
     /* background-color: hsl(256, 26%, 20%); */
     /* margin-top: -5px; */
     height: 500px;
-    width: 50%;
+    width: 100%;
     top: 10px;
      z-index: -1; 
   }
